@@ -1,4 +1,4 @@
-# Swifty-Ninja-HWS
+# Swifty-Ninja-Hacking With Swift
 Learn to draw shapes in SpriteKit while making a fun and tense slicing game
 
 # Topics:
